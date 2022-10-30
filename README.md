@@ -1,7 +1,7 @@
 <h1 align="center">AirBnB Clone</h1>
 <p align="center">An AirBnB clone.</p>
 
-## <p align="center"><img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221030%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20221030T215853Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=8d1424834d8b2508f1eeb668e3bef87d2449d51d5f6f39d1f9dad5290a23e5f6" alt="" loading="lazy" style=""></p>
+<p align="center"><img src="./hbnb.jpg" alt="" loading="lazy" style=""></p>
 
 ## Description :house:
 
