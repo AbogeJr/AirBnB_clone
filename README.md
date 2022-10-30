@@ -1,7 +1,7 @@
 <h1 align="center">AirBnB Clone</h1>
 <p align="center">An AirBnB clone.</p>
 
-<p align="center"><img src="./hbnb.jpg" alt="" loading="lazy" style=""></p>
+<p align="center"><img src="./hbnb.png" alt="" loading="lazy" style=""></p>
 
 ## Description :house:
 
